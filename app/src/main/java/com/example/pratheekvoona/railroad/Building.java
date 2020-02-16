@@ -55,7 +55,7 @@ public class Building {
         public int getEnd() {
             return end;
         }
-        private int using;
+        
         public void setEnd(int end) {
             this.end = end;
         }
